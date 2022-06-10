@@ -1,1 +1,1 @@
-# Pharmcy-Management-System
+# Pharmcy-Management-System by Mayuri Mane
